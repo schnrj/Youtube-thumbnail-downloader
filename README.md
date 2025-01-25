@@ -1,6 +1,7 @@
 # YouTube Thumbnail Downloader
 
 This project provides a simple tool to download high-quality thumbnails from YouTube videos by simply providing the video URL.
+![YouTube Thumbnail Downloader](https://raw.githubusercontent.com/schnrj/Youtube-thumbnail-downloader/94c5220f3526294381feac4f205a8e283245c1cf/website%20photo.jpg)
 
 ## Features
 - Extracts high-quality thumbnails from YouTube videos.
@@ -27,7 +28,8 @@ To run the project locally:
 3.Open the index.html file in your browser to use the tool locally.
 
 Deployment
-This project is deployed on Vercel for easy access and usage. You can view the live website here.
+This project is deployed on Vercel for easy access and usage. You can view the live website [here](https://youtube-thumbnail-downloader-iota.vercel.app/).
+
 
 Technologies Used
 HTML
