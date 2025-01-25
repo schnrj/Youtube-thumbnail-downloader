@@ -67,9 +67,9 @@ h1 {
 
 /* Style the thumbnail container */
 .thumbnail {
-    margin-top: 40px;
+    margin-top: 20px;
     width: 100%;
-    max-width: 1000px;
+    max-width: 600px;
     text-align: center;
 }
 
